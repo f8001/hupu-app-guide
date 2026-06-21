@@ -1,2 +1,14 @@
 # hupu-app-guide
-HTML page archive and documentation
+
+HTML 页面维护仓库
+
+本仓库作为页面发布目录，保存任务生成的 HTML 文件。
+
+## 文件管理
+
+- HTML 文件由发布流程生成
+- README 用于保留基础说明
+
+## 更新说明
+
+仓库会随发布任务继续更新，已发布页面以实际文件为准。
